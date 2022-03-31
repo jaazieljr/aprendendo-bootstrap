@@ -1,4 +1,12 @@
-
-.center{
-    margin: auto;
+.margem{
+    color:#1E90FF;
+    padding-left: 20px;
+}
+.alinhar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.texto{
+text-align: center;
 }
