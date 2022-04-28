@@ -1,6 +1,6 @@
 .margem{
     color:#1E90FF;
-    padding-left: 20px;
+    padding-left: 30px;
 }
 .alinhar{
     display: block;
@@ -8,5 +8,10 @@
     margin-right: auto
 }
 .texto{
-text-align: center;
+padding-top:40px;
+background-color: #F8F8FF;
+}
+
+.secao{
+font-size: 25px;
 }
